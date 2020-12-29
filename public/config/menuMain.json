@@ -1,0 +1,151 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },   
+  {
+    "id": 0,
+    "icon": "fa fa-file-text",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/introduccion.html"
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "grupo_poblacional",
+    "title": "1. Los grupos poblacionales según la edad",    
+    "path": "pages/tema-1.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "grupo_poblacional",
+        "title": "1.1 Primera edad, personas entre 5 y 17 años de edad",
+        "anchor": "tema1_1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "grupo_poblacional",
+        "title": "1.2 Segunda edad, personas entre 18 y 64 años de edad",
+        "anchor": "tema1_2"
+      },  
+      {
+        "icon": "fa fa-file-text",
+        "slug": "grupo_poblacional",
+        "title": "1.3 Tercera edad, personas mayores de 65 años",
+        "anchor": "tema1_2"
+      }
+    ]  
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "inicio_actividad_fisica",
+    "title": "2. Inicio de la actividad física",    
+    "path": "pages/tema-2.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "inicio_actividad_fisica",
+        "title": "2.1 Evaluación pre-participativa o evaluación diagnósitco deportiva",
+        "anchor": "tema2_1"
+      }, 
+      {
+        "icon": "fa fa-file-text",
+        "slug": "inicio_actividad_fisica",
+        "title": "2.2 Importancia de la evaluación pre-participativa",
+        "anchor": "tema2_2"
+      }      
+    ]   
+  }, 
+  {
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "cuestionarios",
+    "title": "3. Cuestionarios de preparticipación",    
+    "path": "pages/tema-3.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "cuestionarios",
+        "title": "3.1 Muestra del cuestionario de preparticipación genérico",
+        "anchor": "tema3_1"
+      }, 
+      {
+        "icon": "fa fa-file-text",
+        "slug": "cuestionarios",
+        "title": "3.2 Recomendaciones posteriores al cuestionario",
+        "anchor": "tema3_2"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "cuestionarios",
+        "title": "3.3 Tipos de cuestionarios",
+        "anchor": "tema3_3"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "cuestionarios",
+        "title": "3.4 Consentimiento informado",
+        "anchor": "tema3_4"
+      }   
+    ]   
+  }, 
+  {
+    "id": 4,
+    "icon": "fa fa-file-text",
+    "slug": "buenos_habitos",
+    "title": "4. Buenos hábitos para una vida saludable",    
+    "path": "pages/tema-4.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "buenos_habitos",
+        "title": "4.1 Ejercicio físico",
+        "anchor": "tema4_1"
+      }, 
+      {
+        "icon": "fa fa-file-text",
+        "slug": "buenos_habitos",
+        "title": "4.2 Dieta equilibrada",
+        "anchor": "tema4_2"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "buenos_habitos",
+        "title": "4.3 Higiene",
+        "anchor": "tema4_3"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "buenos_habitos",
+        "title": "4.4 Malos hábitos",
+        "anchor": "tema4_4"
+      }
+    ]   
+  },
+  {
+    "id": 5,
+    "icon": "fa fa-file-text",
+    "slug": "gestion_cambio",
+    "title": "5. Gestión de cambio",    
+    "path": "pages/tema-5.html"
+  },
+  {
+    "id": 6,
+    "icon": "fa fa-file-text",
+    "slug": "tecnicas_intervension",
+    "title": "6. Técnicas de intervención física responsable",    
+    "path": "pages/tema-6.html"
+  },
+  {
+    "id": 7,
+    "icon": "fa fa-file-text",
+    "slug": "tendencias_actividad_fisica",
+    "title": "7. Tendencias de actividad física",    
+    "path": "pages/tema-7.html"
+  }  
+]
