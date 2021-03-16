@@ -36,8 +36,14 @@ html(lang="es")
                             .card-body
 
                                 ul.list-group.list-group-flush.list.my-n3.nav-temas
-                                    +navTemaItem('play', 'Introducción', '#introduccion')
-                                    +navTemaItem('1', 'Normativa vigente proceso ECCL', '#tema-1')
+                                    +navTemaItem('text', 'Introducción', '#introduccion')
+                                    +navTemaItem('1', 'Los grupos poblacionales según la edad', '#tema-1')
+                                    +navTemaItem('2', 'Inicio de la actividad física', '#tema-2')
+                                    +navTemaItem('3', 'Cuestionarios de preparticipación', '#tema-3')
+                                    +navTemaItem('4', 'Buenos hábitos para una vida saludable', '#tema-4')
+                                    +navTemaItem('5', 'Gestión de cambio', '#tema-5')
+                                    +navTemaItem('6', 'Técnicas de intervención física responsable', '#tema-6')
+                                    +navTemaItem('7', 'Tendencias de actividad física', '#tema-7')
                                     +navTemaItem('question', 'Actividad didáctica', '#evaluacion')
                                     +navTemaItem('glosary', 'Glosario', '#glosario')
                                     +navTemaItem('folder', 'Material complementario', '#anexos')
@@ -51,6 +57,16 @@ html(lang="es")
                 include pages/tema-1.pug
             #tema-2
                 include pages/tema-2.pug
+            #tema-3
+                include pages/tema-3.pug
+            #tema-4
+                include pages/tema-4.pug
+            #tema-5
+                include pages/tema-5.pug
+            #tema-6
+                include pages/tema-6.pug
+            #tema-7
+                include pages/tema-7.pug
             #glosario
                 include pages/glosario.pug
             #anexos
