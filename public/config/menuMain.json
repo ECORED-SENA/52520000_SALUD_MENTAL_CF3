@@ -147,5 +147,12 @@
     "slug": "tendencias_actividad_fisica",
     "title": "7. Tendencias de actividad física",    
     "path": "pages/tema-7.html"
-  }  
+  },
+  {
+    "id": 8,
+    "icon": "fa fa-file-text",
+    "slug": "actividad_fisica_estado_fisico",
+    "title": "8. La actividad física y el estado físico",    
+    "path": "pages/tema-8.html"
+  } 
 ]
